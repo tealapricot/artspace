@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">artspace</string>
+    <string name="art1">Morning Glory</string>
+    <string name="art1_year">2018</string>
+    <string name="art2">Wondering Grey</string>
+    <string name="art2_year">2019</string>
+    <string name="art3">Oriental Sight</string>
+    <string name="art3_year">2020</string>
+    <string name="art4">Western Glory</string>
+    <string name="art4_year">2021</string>
+</resources>
